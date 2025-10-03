@@ -20,7 +20,7 @@ Repo to provide static HTML and CSS examples.
   To the extent possible under law,
   [Geoffrey R. Scheller](https://github.com/grscheller)
   has waived all copyright and related or neighboring rights
-  to [grscheller/grok-lua](https://github.com/grscheller/grok-html).
+  to [grscheller/grok-html](https://github.com/grscheller/grok-html).
   This work is published from the United States of America.
 </p>
 
